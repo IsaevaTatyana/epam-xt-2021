@@ -1,0 +1,6 @@
+/Users/tatyanaisaeva/Projects/task_1_2_4/task_1_2_4/bin/Debug/task_1_2_4.exe
+/Users/tatyanaisaeva/Projects/task_1_2_4/task_1_2_4/bin/Debug/task_1_2_4.pdb
+/Users/tatyanaisaeva/Projects/task_1_2_4/task_1_2_4/obj/Debug/task_1_2_4.csprojAssemblyReference.cache
+/Users/tatyanaisaeva/Projects/task_1_2_4/task_1_2_4/obj/Debug/task_1_2_4.csproj.CoreCompileInputs.cache
+/Users/tatyanaisaeva/Projects/task_1_2_4/task_1_2_4/obj/Debug/task_1_2_4.exe
+/Users/tatyanaisaeva/Projects/task_1_2_4/task_1_2_4/obj/Debug/task_1_2_4.pdb
